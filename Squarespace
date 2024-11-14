@@ -1,0 +1,6161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Pride and Poop</title>
+    <link>https://www.prideandpoop.com</link>
+    <pubDate>Thu, 30 Nov 2023 17:32:57 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-120129185</wp:author_id>
+      <wp:author_login>cassidy.condray@gmail.com</wp:author_login>
+      <wp:author_email>cassidy.condray@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Cass Condray]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Cass]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Condray]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sun, 28 Jan 2024 23:20:04 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="6568c8b3d3bee837f8b56586">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6568c8b3d3bee837f8b5658a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6568c8b3d3bee837f8b56589 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(32,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6568c8b3d3bee837f8b56589 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6568c8b3d3bee837f8b56589 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(16,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1701473355179_8555 {
+    grid-area: 1/2/3/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701473355179_8555 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701473355179_8555 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701473355179_8555 {
+      grid-area: 1/2/3/5;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701473355179_8555 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701473355179_8555 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-937456b5ce781fcf7193 {
+    grid-area: 4/2/32/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-937456b5ce781fcf7193 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-937456b5ce781fcf7193 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-937456b5ce781fcf7193 {
+      grid-area: 4/7/17/26;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-937456b5ce781fcf7193 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-937456b5ce781fcf7193 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6568c8b3d3bee837f8b56589"><div class="fe-block fe-block-yui_3_17_2_1_1701473355179_8555"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701473355179_8555"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h2 style="white-space:pre-wrap;">Pride and Poop</h2></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-937456b5ce781fcf7193"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-937456b5ce781fcf7193"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;">All the questions you have about being LGBTQ+ and having IBD, answered</h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6568c8b3d3bee837f8b5658d"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6568c8b3d3bee837f8b5658c {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(12,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6568c8b3d3bee837f8b5658c {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6568c8b3d3bee837f8b5658c {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(11,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-ac689c95cb8492df8553 {
+    grid-area: 1/2/2/10;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-ac689c95cb8492df8553 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-ac689c95cb8492df8553 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ac689c95cb8492df8553 {
+      grid-area: 3/7/4/10;
+      z-index: 6;
+
+      
+    }
+
+    .fe-block-ac689c95cb8492df8553 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-ac689c95cb8492df8553 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-a13b24bd33f337ebec76 {
+    grid-area: 3/2/5/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-a13b24bd33f337ebec76 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-a13b24bd33f337ebec76 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a13b24bd33f337ebec76 {
+      grid-area: 3/11/6/15;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-a13b24bd33f337ebec76 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-a13b24bd33f337ebec76 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-a1a94a145e8db66d4352 {
+    grid-area: 5/2/13/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-a1a94a145e8db66d4352 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-a1a94a145e8db66d4352 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a1a94a145e8db66d4352 {
+      grid-area: 3/15/12/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-a1a94a145e8db66d4352 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-a1a94a145e8db66d4352 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6568c8b3d3bee837f8b5658c"><div class="fe-block fe-block-ac689c95cb8492df8553"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-ac689c95cb8492df8553"><div class="sqs-block-content"><hr /></div></div></div><div class="fe-block fe-block-a13b24bd33f337ebec76"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-a13b24bd33f337ebec76"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">About this website:</h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-a1a94a145e8db66d4352"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-a1a94a145e8db66d4352"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Having Crohn’s Disease or Ulcerative Colitis is difficult enough, and navigating this disease while being LGBTQ can make things even harder - especially if you do not have a healthcare provider you are comfortable with.</h4><h4 style="white-space:pre-wrap;"> This website hopes to serve as a hub of information and resources to help decrease barriers to knowledge.</h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6568e1d010340f644546ba03"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6568e1d1948c102ae30f0bbf {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(21,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6568e1d1948c102ae30f0bbf {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6568e1d1948c102ae30f0bbf {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(24,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1701371660250_15145 {
+    grid-area: 1/2/6/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_15145 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_15145 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701371660250_15145 {
+      grid-area: 1/2/25/10;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701371660250_15145 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701371660250_15145 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701380156757_548893 {
+    grid-area: 6/2/16/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701380156757_548893 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701380156757_548893 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701380156757_548893 {
+      grid-area: 1/11/17/23;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701380156757_548893 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701380156757_548893 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_76029 {
+    grid-area: 16/2/22/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_76029 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_76029 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_76029 {
+      grid-area: 13/14/23/23;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_76029 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_76029 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6568e1d1948c102ae30f0bbf"><div class="fe-block fe-block-yui_3_17_2_1_1701371660250_15145"><div class="sqs-block accordion-block sqs-block-accordion" data-blend-mode="NORMAL" data-block-type="69" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701371660250_15145"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+<ul
+  class="accordion-items-container"
+  data-should-allow-multiple-open-items="true"
+  data-is-divider-enabled="true"
+  data-is-first-divider-visible="true"
+  data-is-last-divider-visible="true"
+  data-is-expanded-first-item=""
+  data-accordion-title-alignment="left"
+  data-accordion-description-alignment="left"
+  data-accordion-description-placement="left"
+  data-accordion-icon-placement="right"
+>
+  
+    <li class="accordion-item">
+
+      
+        
+          <div
+            class="accordion-divider accordion-divider--top"
+            aria-hidden="true"
+            style="
+              height: 1px;
+              opacity: 1;
+            "
+          ></div>
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Sexual Health and IBD
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Frequently asked questions about sex and IBD as an LGBTQ+ person, navigating sexual activities and life with perianal/rectal IBD or fissures/fistulas/setons</p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Gender Affirming Hormone Therapy and IBD
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Busting myths about HRT and IBD, what to expect when starting HRT with IBD, and navigating ‘Transgender Broken Arm Syndrome</p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Talking to Your Healthcare Provider
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">How to talk to your healthcare team about LGBTQ health and sexual health, navigating the healthcare field as a sexual orientation or gender minority, and tips for navigating and accessing affirming gastrointestinal care</p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Coping
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Having IBD alone is hard enough, coupled with being LGBTQ+ can make things even harder. Here are some tips for ways to cope best living with this disease and navigating life as an LGBTQ+ person.</p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Safe Practices
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">How to live your best life without compromising your bowel health</p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Commonly Used Terms
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Terms your GI doctor or IBD healthcare provider may use, or terms you may see used, and what they mean</p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Finding A Gastroenterologist
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Finding a gastroenterologist you are comfortable with, especially as an LGBTQ+ person, can be tough. Here are some places to look and things to look for.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Resources
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">Resources available online and in your local community for LGBTQ+ individuals with IBD</p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+    <li class="accordion-item">
+
+      
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-right: 24px;
+              
+            "
+          >
+            Get in Touch
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 24px;
+              width: 24px;
+            "
+          >
+            
+              <div class="arrow-container">
+                <div class="arrow"
+                  style="
+                    border-width: 3px;
+                  "
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 70%;
+            max-width: 300px;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">If there’s something we didn’t touch on or cover that you want featured, or a topic you think is important to add, let us know!</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+</ul>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701380156757_548893"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701380156757_548893"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">I’m L/G/B/T/Q/ + and I have just been diagnosed with IBD!  What do I do?</h2><pre><code>The sidebar has a list of common topics and frequently asked questions (and answers!) tailored to the LGBTQ+ IBD community.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h2 style="white-space:pre-wrap;"> </h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_76029"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1705712959280_76029"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png" data-image-dimensions="400x400" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png" width="400" height="400" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 37.5vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0606df09-1245-4f8d-b630-bfdbb4e81b8e/146413941-rainbow-poo-doodle-icon-vector-color-illustration_inPixio.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1705712959280_76029 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6568c8b3d3bee837f8b56590"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6568c8b3d3bee837f8b5658f {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(449,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6568c8b3d3bee837f8b5658f {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6568c8b3d3bee837f8b5658f {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(393,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-91d7d089f1f21066206a {
+    grid-area: 2/2/96/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-91d7d089f1f21066206a .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-91d7d089f1f21066206a .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-91d7d089f1f21066206a {
+      grid-area: 1/7/52/25;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-91d7d089f1f21066206a .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-91d7d089f1f21066206a .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-02fdec1d6c43ef23be04 {
+    grid-area: 96/2/180/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-02fdec1d6c43ef23be04 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-02fdec1d6c43ef23be04 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-02fdec1d6c43ef23be04 {
+      grid-area: 65/6/112/22;
+      z-index: 5;
+
+      
+    }
+
+    .fe-block-02fdec1d6c43ef23be04 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-02fdec1d6c43ef23be04 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-005f12a93575a0cc9c74 {
+    grid-area: 177/2/255/10;
+    z-index: 7;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-005f12a93575a0cc9c74 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-005f12a93575a0cc9c74 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-005f12a93575a0cc9c74 {
+      grid-area: 121/7/172/21;
+      z-index: 7;
+
+      
+    }
+
+    .fe-block-005f12a93575a0cc9c74 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-005f12a93575a0cc9c74 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_8425 {
+    grid-area: 255/2/261/10;
+    z-index: 27;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_8425 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_8425 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_8425 {
+      grid-area: 174/4/182/10;
+      z-index: 27;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_8425 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_8425 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_45952 {
+    grid-area: 261/2/267/10;
+    z-index: 29;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_45952 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_45952 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_45952 {
+      grid-area: 53/12/60/20;
+      z-index: 29;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_45952 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_45952 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_48010 {
+    grid-area: 267/2/273/10;
+    z-index: 17;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_48010 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_48010 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701568165745_48010 {
+      grid-area: 174/10/183/18;
+      z-index: 17;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_48010 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_48010 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_50305 {
+    grid-area: 273/2/275/10;
+    z-index: 18;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_50305 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_50305 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701568165745_50305 {
+      grid-area: 183/11/186/17;
+      z-index: 18;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_50305 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_50305 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_55990 {
+    grid-area: 275/2/281/10;
+    z-index: 32;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_55990 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_55990 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_55990 {
+      grid-area: 53/18/59/24;
+      z-index: 32;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_55990 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_55990 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_62801 {
+    grid-area: 281/2/287/10;
+    z-index: 22;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_62801 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_62801 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701568165745_62801 {
+      grid-area: 107/19/117/25;
+      z-index: 22;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_62801 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_62801 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_10510 {
+    grid-area: 287/2/293/10;
+    z-index: 28;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_10510 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_10510 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_10510 {
+      grid-area: 175/19/182/25;
+      z-index: 28;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_10510 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_10510 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701620189045_22313 {
+    grid-area: 293/2/295/10;
+    z-index: 26;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701620189045_22313 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701620189045_22313 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701620189045_22313 {
+      grid-area: 188/7/223/21;
+      z-index: 26;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701620189045_22313 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701620189045_22313 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_68099 {
+    grid-area: 295/2/301/10;
+    z-index: 33;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_68099 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_68099 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_68099 {
+      grid-area: 222/9/229/19;
+      z-index: 33;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_68099 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_68099 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_56186 {
+    grid-area: 301/2/307/10;
+    z-index: 19;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_56186 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_56186 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701568165745_56186 {
+      grid-area: 107/4/117/10;
+      z-index: 19;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_56186 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_56186 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701620189045_3547 {
+    grid-area: 307/2/313/10;
+    z-index: 24;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701620189045_3547 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1701620189045_3547 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701620189045_3547 {
+      grid-area: 53/5/60/11;
+      z-index: 24;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701620189045_3547 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1701620189045_3547 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_48929 {
+    grid-area: 313/2/315/10;
+    z-index: 30;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_48929 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_48929 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_48929 {
+      grid-area: 60/5/69/11;
+      z-index: 30;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_48929 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_48929 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_58152 {
+    grid-area: 315/2/321/10;
+    z-index: 20;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_58152 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_58152 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701568165745_58152 {
+      grid-area: 107/9/117/15;
+      z-index: 20;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_58152 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_58152 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_51910 {
+    grid-area: 321/2/323/10;
+    z-index: 31;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_51910 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1705712959280_51910 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705712959280_51910 {
+      grid-area: 60/16/64/22;
+      z-index: 31;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_51910 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1705712959280_51910 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_60217 {
+    grid-area: 323/2/329/10;
+    z-index: 21;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_60217 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_60217 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701568165745_60217 {
+      grid-area: 107/14/117/21;
+      z-index: 21;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_60217 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_60217 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_65177 {
+    grid-area: 329/2/331/10;
+    z-index: 23;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_65177 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701568165745_65177 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701568165745_65177 {
+      grid-area: 118/11/121/17;
+      z-index: 23;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_65177 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701568165745_65177 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-1c51dde0ac59a642c08e {
+    grid-area: 336/2/342/10;
+    z-index: 11;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-1c51dde0ac59a642c08e .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-1c51dde0ac59a642c08e .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-1c51dde0ac59a642c08e {
+      grid-area: 229/7/282/21;
+      z-index: 11;
+
+      
+    }
+
+    .fe-block-1c51dde0ac59a642c08e .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-1c51dde0ac59a642c08e .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-f2426a320422e21d57f8 {
+    grid-area: 343/2/401/10;
+    z-index: 13;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f2426a320422e21d57f8 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-f2426a320422e21d57f8 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f2426a320422e21d57f8 {
+      grid-area: 236/7/276/21;
+      z-index: 13;
+
+      
+    }
+
+    .fe-block-f2426a320422e21d57f8 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-f2426a320422e21d57f8 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-dae9953d84944e56c3e0 {
+    grid-area: 402/2/408/10;
+    z-index: 15;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-dae9953d84944e56c3e0 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-dae9953d84944e56c3e0 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-dae9953d84944e56c3e0 {
+      grid-area: 281/7/333/21;
+      z-index: 15;
+
+      
+    }
+
+    .fe-block-dae9953d84944e56c3e0 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-dae9953d84944e56c3e0 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_178930 {
+    grid-area: 408/2/450/10;
+    z-index: 16;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_178930 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_178930 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701371660250_178930 {
+      grid-area: 339/7/394/23;
+      z-index: 16;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701371660250_178930 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701371660250_178930 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6568c8b3d3bee837f8b5658f"><div class="fe-block fe-block-91d7d089f1f21066206a"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-91d7d089f1f21066206a"><div class="sqs-block-content">
+  <script class="TextAttributes-props" type="application/json">[ {
+  "type": "highlight",
+  "id": "89a1638d-ffc3-400c-9188-ba302420dfe1",
+  "shape": "underline",
+  "isFront": false,
+  "isAnimationEnabled": false,
+  "animation": "draw",
+  "duration": 0.5,
+  "direction": "right",
+  "color": {
+    "type": "THEME_COLOR"
+  },
+  "thickness": {
+    "unit": "em",
+    "value": 0.15
+  },
+  "linecap": "square"
+} ]</script>
+
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><h1 style="white-space:pre-wrap;">Sexual Health and IBD</h1></li></ul><h3 style="white-space:pre-wrap;">Frequently asked questions about sex and IBD as an LGBTQ+ person, navigating sexual activities and life with perianal/rectal IBD or fissures/fistulas/setons </h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>‘Bottoming’ or having anoreceptive intercourse while in an active flare/perianal disease - what to do?</code></pre></li><li><pre><code>Using Fleet/saline enemas - are these okay?</code></pre></li><li><pre><code>Amyl nitrate/’poppers’ - can I use these?</code></pre></li></ul><pre><code>Being in a flare can put a significant damper on one’s confidence and sex life, especially if you have particular preferences. </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>If there is significant inflammation in your anorectal area, anoreceptive intercourse increases the risk for trauma to the area and can increase pain</code></pre></li></ul><pre><code></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>If you begin to notice blood or experience pain - it may be time to take a break from bottoming/anoreceptive intercourse</code></pre></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>‘Douching’ too frequently and using products with excessive additives in areas of pre-existing inflammation can lead to bleeding and irritation</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>Amyl nitrite/’poppers’ act as a vasodilator and can have  harmful side effects, such as methemoglobenemia, and can lower your blood pressure precipitously and cause a rapid spike in heart rate. Be very careful when using and make sure someone is with you.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Lubricant is your friend! </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Be aware of what base your lubricant is made of though - silicone, water,  oil, etc. Silicone-based lubricants can damage silicone products but are safe to use with condoms. Oil-based lubricants/oil-based lube will lead to condom breakdown! This can lead to an increased risk of STIs. </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><pre><code></code></pre></li><li><pre><code>Always use a flared base for anything going in behind - this applies for everyone, not just if you have IBD!</code></pre></li></ul><pre><code></code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-02fdec1d6c43ef23be04"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-02fdec1d6c43ef23be04"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><h1 style="white-space:pre-wrap;">Gender Affirming Hormone Therapy and IBD</h1></li></ul><h3 style="white-space:pre-wrap;">Busting myths about HRT and IBD, what to expect when starting HRT with IBD, and navigating ‘Transgender Broken Arm Syndrome’</h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>GAHRT (Gender Affirming Hormone Replacement Therapy) is used by  some transgender individuals who wish to transition medically. This includes, but is not limited to, Testosterone ( Testosterone Cypionate or Proprionate SubQ Injection, Intramuscular Injection, Nebido Pellet, Testogel, and Patches) Estrogen, Estradiol, Progesterone, GnRH antagonists/puberty blockers, spironolactone, and more.</code></pre></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>Transgender Broken Arm Syndrome is the phenomenon of healthcare providers misattributing symptoms of disease to your HRT or gender identity - in this case, that may look like a flare being blamed/attributed to your HRT.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>There is limited research on transgender IBD patient health, however, testosterone replacement therapy has been shown to decrease CRP and pro-inflammatory cytokines (doi: 10.1515/hmbci-2015-0014)</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>In transgender men without IBD, gender-affirming hormone therapy led to a decrease in CRP and blood pressure (doi:<a href="https://doi.org/10.1002/ajhb.22203" target="_blank">10.1002/ajhb.22203</a>)</code></pre><pre><code></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Talk to your GI doctor and endocrinologist (or prescribing provider of HRT) about your specific situation - not all IBD experiences are the same as not all TGNC experiences are the same.</code></pre></li><li><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-005f12a93575a0cc9c74"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-005f12a93575a0cc9c74"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><h1 style="white-space:pre-wrap;">Talking to Providers</h1></li></ul><h3 style="white-space:pre-wrap;">How to talk to your healthcare team about LGBTQ health and sexual health, navigating healthcare as a sexual orientation or gender minority</h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>Talking about sex is hard enough if you’re cisgender and straight, let alone to your doctor - and being LGBTQ+ can make the situation even more daunting!</code></pre></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>Your provider is there to make sure you are safe and healthy: IBD can be associated with issues of libido and sexual dysfunction so it is not out of the ordinary to be talked about.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>Don’t be afraid of how to come up with the right words: phrase your questions in the way you are thinking - don’t get caught up in them not sounding ‘medical’ enough. Your provider will understand.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>Bring a trusted friend or partner if needed - maximize your comfort!</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>Don’t be afraid to seek a second opinion if your physician is unfamiliar &amp; uncomfortable with LGBTQ+ health or discriminatory/judgemental - you deserve to feel safe and welcome with your healthcare provider!</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>If it is more comfortable for you, you can try messaging your GI on the patient portal (MyChart, etc) your question - that may be easier!</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><ul data-rte-list="default"><li><pre><code>It may help to bring a list of pre-prepared questions - i.e. ‘Is xyz safe in my situation/ my current disease state (flare/no flare) ’ or ‘Can I use this (xyz) during intercourse’</code></pre></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>At the end of the day, your doctor is an adult and medical professional - who is trained to take care of YOU - don't be worried to have these conversations!</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Your GI doctor’s main concern is your health and safety - do not worry about being a burden or having uncomfortable conversations.</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_8425"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1705712959280_8425"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg" data-image-dimensions="567x695" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg" width="567" height="695" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/753e7498-99cf-48f9-bd58-b1d5185da5d8/51gavQ5e94L._AC_SY695_.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1705712959280_8425 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_45952"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1705712959280_45952"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg" data-image-dimensions="679x612" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg" width="679" height="612" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 33.33333333333333vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/0f401a8c-7f36-4b1e-b895-2df24fb07d95/mck.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1705712959280_45952 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701568165745_48010"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="79.73747149452139" data-block-type="5" id="block-yui_3_17_2_1_1701568165745_48010"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png" data-image-dimensions="400x400" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png" width="400" height="400" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/ba700adc-c9de-42f4-ac7a-f22d09d71dc9/pin.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1701568165745_48010 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701568165745_50305"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701568165745_50305"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code>A pin a provider may wear to indicate they are an ally and you are safe to be yourself in their presence.</code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_55990"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1705712959280_55990"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg" data-image-dimensions="839x1000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg" width="839" height="1000" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/4409c1ed-3238-4c0c-8182-82faaa40e54d/71GE--nKetL._AC_UF1000%2C1000_QL80_.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1705712959280_55990 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701568165745_62801"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1701568165745_62801"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg" data-image-dimensions="250x250" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg" width="250" height="250" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/5b0382a7-6122-4cbb-bb5f-6971d4b014bd/3263100.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1701568165745_62801 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_10510"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1705712959280_10510"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg" data-image-dimensions="983x695" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg" width="983" height="695" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/3846f795-9792-47b9-ab5a-57edaee892d1/61Iqgdz8XJL._AC_SY695_.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1705712959280_10510 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701620189045_22313"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701620189045_22313"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;">Coping</h1><h3 style="white-space:pre-wrap;">Whether you are queer, gay, lesbian, bisexual or transgender, living with IBD as an LGBTQ person is difficult - from navigating bathrooms to navigating the bedroom.</h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>Establishing a therapeutic relationship with a trusted mental health professional may be helpful, to process and cope with roadblocks and barriers - being denied using the restroom because of your gender identity to navigating limitations on your sexual life and the psychological impacts of these difficulties</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Let someone know (your physician, a trusted friend, a therapist) if things are becoming harder mentally - this disease is a lot to take on alone!</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>Some IBD treatments can have effects on your mood (i.e. high doses of Prednisone) and things like anemia can also affect how you feel mentally - let your doctor know if you begin to notice changes in your mood or mental health</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><ul data-rte-list="default"><li><pre><code>Finding community with other LGBTQ+ people with IBD may be helpful, to share experiences and know you are not alone</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>It’s okay to not be okay - but it will get better! </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Remember you are cherished and supported as a member of the IBD &amp; LGBTQ+ community - you are important and you matter! You are not alone in your struggles. This disease can be isolating, don't hesitate to reach out to others for support and never be afraid to ask for help.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_68099"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1705712959280_68099"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg" width="1000" height="1000" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 41.66666666666667vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/27eb71c8-282d-46fc-bbf6-54244855526c/st%2Csmall%2C845x845-pad%2C1000x1000%2Cf8f8f8.u1.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1705712959280_68099 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701568165745_56186"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1701568165745_56186"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg" data-image-dimensions="149x338" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg" width="149" height="338" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d5908987-58d9-4bf9-a43f-12c6983456e9/test.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1701568165745_56186 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701620189045_3547"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1701620189045_3547"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg" data-image-dimensions="802x1000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg" width="802" height="1000" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/af9f81e0-ebe1-4cbc-b868-3c177fbd7aa7/718%2BciLiNuL._AC_UF1000%2C1000_QL80_.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1701620189045_3547 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_48929"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1705712959280_48929"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code>Enema that may be used for douching</code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701568165745_58152"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1701568165745_58152"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg" data-image-dimensions="550x550" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg" width="550" height="550" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/48a39804-98ee-4f0d-8c22-cedf0e4cf0ba/estr.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1701568165745_58152 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1705712959280_51910"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1705712959280_51910"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code>Example of water-based lubricant - OK with condoms. When in doubt, the package will indicate water/oil/silicone based!</code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701568165745_60217"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1701568165745_60217"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg" data-image-dimensions="341x500" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg" width="341" height="500" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 29.166666666666668vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6568c749e59e5578d2d6c0d1/d446a59e-f60a-4ae6-8ef5-a48e50154cf6/41bfrzztXaL.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1701568165745_60217 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701568165745_65177"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701568165745_65177"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code>Different forms of HRT</code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-1c51dde0ac59a642c08e"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-1c51dde0ac59a642c08e"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><h1 style="white-space:pre-wrap;">Safe Practices</h1></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-f2426a320422e21d57f8"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-f2426a320422e21d57f8"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;">How to live your best life without compromising your bowel health!</h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>Always, always, always listen to your body - if something doesn’t feel right or feels off - stop and reevaluate!</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><ul data-rte-list="default"><li><pre><code>Have honest and open communication with your partner - in a flare, let them know you have more limitations and may need to change what you do (go slower, no bottoming, etc)</code></pre></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>You are your own best advocate - advocate for what is best for you/works best for you, and communicate about what is painful or uncomfortable</code></pre></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>If having anoreceptive intercourse (bottoming/anal) during/right after a flare, take it very easy - the swelling and inflammation in the area can cause things to be much different from how they 'normally' are.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>If you start to notice blood, pain, or unusual discomfort, stop and reassess. If you have perianal Crohn's or Ulcerative Colitis active in the anorectal area, bottoming may not be a great idea until the inflammation is decreased.</code></pre></li></ul><pre><code></code></pre><ul data-rte-list="default"><li><pre><code>Before using amyl nitrate/’poppers’, talk to your physician or a healthcare professional - these can have seriously harmful side effects and be very dangerous if you have an underlying cardiac condition, and are generally unsafe even if you have no health conditions</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>As mentioned before, be mindful of what lubricant you use - oil-based lubricant will lead to degradation of latex condoms, which can lead to an increased risk of STIs</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Use protection and regularly get tested! When you have IBD, you are immunocompromised, so at a higher risk for infections. It is important to stay safe.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Be kind to your butt! Aftercare is important for everyone, especially if you have IBD. Wash with gentle unscented soaps (Cetaphil, etc) but never use soap INSIDE your rectum/anal area - only on the outside!! This can dry out and irritate the rectum/anal area - no fun.</code></pre><pre><code></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-dae9953d84944e56c3e0"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-dae9953d84944e56c3e0"><div class="sqs-block-content">
+  <script class="TextAttributes-props" type="application/json">[ {
+  "type": "highlight",
+  "id": "5c7141a4-221e-4f97-804a-d1681accd72f",
+  "shape": "underline",
+  "isFront": false,
+  "isAnimationEnabled": false,
+  "animation": "draw",
+  "duration": 0.5,
+  "direction": "right",
+  "color": {
+    "type": "THEME_COLOR"
+  },
+  "thickness": {
+    "unit": "em",
+    "value": 0.1
+  },
+  "linecap": "square"
+} ]</script>
+
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><h1 style="white-space:pre-wrap;">Resources </h1></li></ul><h3 style="white-space:pre-wrap;">Resources available online and in your community for LGBTQ+ individuals with IBD</h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code><a href="https://www.facebook.com/groups/2352014181485976/">Crohn’s and Colitis Foundation Support Group for Lesbian and Bisexual Women</a></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://www.facebook.com/groups/2255992814657677/">Crohn’s and Colitis Foundation Support Group for Gay and Bisexual Men</a></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://cocci.org/about/">Color of Crohn’s and Chronic Illness: Support Group for Black, Indigenous, and People of Color (BIPOC) with IBD</a></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://ownyourcrohns.com/ibdesis-gauravs-covid-journey-india/">SAIA/IBDesis: Support Network for South Asian People with IBD</a></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://girlswithguts.org/about/faq/">Girls with Guts</a>: Support Network for Girls and Women with IBD, Welcoming of the LGBTQ+ Community</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://www.facebook.com/groups/507555626084254/">Chronic Illness Queers</a>: Not IBD Specific, but LGBTQ+ support group for those with Chronic Illnesses</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://www.facebook.com/groups/331668518124777">LGBT Chronic Illness:</a> Not IBD specific, but LGBTQ+ support group for those with Chronic Illnesses</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code><a href="https://crankyqueer.org/the-cranky-queer-guide-to-chronic-illness">The Cranky Queer Guide to Chronic Illness</a>: Advice and toolkit for navigating life with a Chronic Illness &amp; being LGBTQ+</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code><a href="https://transgenderlawcenter.org/programs/disability-project/">Transgender Law Center Disability Project</a>: Resource From the Transgender Law Center aimed at breaking down isolation, growing connection, builds leadership and infrastructure for trans and queer disabled communities, while increasing Disability Justice capacity in the movements that seek to serve them.&nbsp;</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://www.thetrevorproject.org">The Trevor Project:</a> 24/7/365 peer support &amp; crisis support services for LGBTQ young people</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://immigrationequality.org/get-involved/take-action/?gclid=CjwKCAiAjrarBhAWEiwA2qWdCOsxNldrzCp7L9uphI9q_mjGaUptXSxFJcBx7yEooakcJd2pS9OpvxoCTyoQAvD_BwE">Immigration Equality</a>: a resource that provides legal and material support for LGBTQ individuals seeking asylum and/or refugee status in the United States</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://www.rainbowrailroad.org">Rainbow Railroad:</a>  helps LGBTQ individuals find safety through emergency relocation support, crisis response, financial assistance, and other forms of assistance</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><span class="sqsrte-text-highlight" data-text-attribute-id="5c7141a4-221e-4f97-804a-d1681accd72f">A list of LGBT Health Services and Clinics by state </span></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><pre><code></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701371660250_178930"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701371660250_178930"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><h1 style="white-space:pre-wrap;">Frequently </h1><h1 style="white-space:pre-wrap;">Used Terms</h1></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h3 style="white-space:pre-wrap;">Terms and words you may see in your chart,  patient portal, or on the internet, and what they mean</h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>Perianal Disease:  Your disease activity is currently active in the area around your anal area. This may involve anal fissures, fistulas, pain, and can interfere with sex and quality of life.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Anoreceptive intercourse: This is the medical word for anal sex or bottoming. Interchangeable with Receptive Anal Intercourse (RAI)</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code> High-Risk Sexual Activity/High-Risk Sexual Behavior: This may be used to refer to sexual activity in your diagnosis/ diagnosis coding. This is not a value judgment about you!! It is antiquated language, but remember, it is not a reflection on you as a person.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Anal fistula: a small tunnel that develops between the end of the bowel and skin near the anus.</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>CRP: a protein in your blood that rises in response to inflammation</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Biomarker: a biological element that can be an indicator of inflammation and response to treatment. Includes, but is not limited to, CRP, Fecal calprotectin, or anti-IF16. </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>EIM/Extra Intestinal Manifestation: When your IBD affects parts of your body outside your GI tract - this can include joint pain and eczema. </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>BID: twice a day. This may be seen with 'BID AC' - meaning twice a day before meals, HS/HD - bedtime, PC - after meals, etc.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>PRN:  Use as needed. </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Dx: Diagnosis</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Tx: Treatment</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul><ul data-rte-list="default"><li><pre><code>NPO: Nothing by mouth - don’t eat or drink anything!</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>POCUS: Point Of Care Ultrasound - this can include intestinal ultrasound or ultrasound of things like your gallbladder or appendix. </code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="656b9eb1b960bd55263f5287"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-656b9eb11a7e36379beed8f8 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(2,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-656b9eb11a7e36379beed8f8 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-656b9eb11a7e36379beed8f8 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(31,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1701550846622_7179 {
+    grid-area: 1/2/3/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701550846622_7179 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701550846622_7179 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701550846622_7179 {
+      grid-area: 1/6/32/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701550846622_7179 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701550846622_7179 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-656b9eb11a7e36379beed8f8"><div class="fe-block fe-block-yui_3_17_2_1_1701550846622_7179"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701550846622_7179"><div class="sqs-block-content">
+  <script class="TextAttributes-props" type="application/json">[ {
+  "type": "highlight",
+  "id": "91bbbf6e-d477-4ffe-a399-a1f13c46b72e",
+  "shape": "underline",
+  "isFront": false,
+  "isAnimationEnabled": false,
+  "animation": "draw",
+  "duration": 0.5,
+  "direction": "right",
+  "color": {
+    "type": "THEME_COLOR"
+  },
+  "thickness": {
+    "unit": "em",
+    "value": 0.1
+  },
+  "linecap": "square"
+} ]</script>
+
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><h1 style="white-space:pre-wrap;">Finding a Gastroenterologist</h1></li></ul><h3 style="white-space:pre-wrap;">Finding a GI doctor/IBD specialist you are comfortable with and trust can be tough. Here are some places to start:</h3><ul data-rte-list="default"><li><pre><code>There are 2 IBD clinics established that specifically focus on the healthcare needs of LGBTQ+ people with IBD: <a href="https://www.capitaldigestivecare.com/about/leadership-team/">Capitol Digestive Care in Washington, DC</a>,  <a href="https://www.mayoclinic.org/departments-centers/inflammatory-bowel-disease-clinic/overview/ovc-20357763">Mayo Clinic IBD Pride Clinic in Rochester</a>, Minnesota,  with a new LGBTQ+ IBD clinic planned to open at UCSF.</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://www.outcarehealth.org/outlist/#:~:text=The%20OutList%C2%AE%20is%20an,of%20any%20identity%20and%20specialty.">OutCare</a> has a directory of LGBTQ+ affirming providers across a variety of specialties</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><span class="sqsrte-text-highlight" data-text-attribute-id="91bbbf6e-d477-4ffe-a399-a1f13c46b72e">The CDC has a Directory of <a href="https://www.cdc.gov/lgbthealth/health-services.htm">LGBT Health Services and Clinics in each state</a></span></code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code><a href="https://lgbtqhealthcaredirectory.org">LGBTQ+ Healthcare Directory</a> also has a directory of affirming providers across a range of specialties</code></pre></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ul data-rte-list="default"><li><pre><code>When browsing physician profiles, look for ‘LGBTQ Health’ if they have areas of interest listed</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></li><li><pre><code>Ask around! Social media can be a helpful tool for looking for doctors who are kind and affirming - a vast majority aren’t listed on any directory</code></pre></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6568c8b3d3bee837f8b56593"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6568c8b3d3bee837f8b56592 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(19,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6568c8b3d3bee837f8b56592 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6568c8b3d3bee837f8b56592 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(4,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1705783674399_9510 {
+    grid-area: 1/2/3/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1705783674399_9510 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1705783674399_9510 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1705783674399_9510 {
+      grid-area: 3/9/5/15;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1705783674399_9510 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1705783674399_9510 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-cff5c6a1a218bbf11bb2 {
+    grid-area: 3/2/4/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-cff5c6a1a218bbf11bb2 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-cff5c6a1a218bbf11bb2 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-cff5c6a1a218bbf11bb2 {
+      grid-area: 2/7/3/10;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-cff5c6a1a218bbf11bb2 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-cff5c6a1a218bbf11bb2 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-0cf00e06f90dd375b820 {
+    grid-area: 4/2/20/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-0cf00e06f90dd375b820 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0cf00e06f90dd375b820 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0cf00e06f90dd375b820 {
+      grid-area: 2/15/4/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-0cf00e06f90dd375b820 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0cf00e06f90dd375b820 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6568c8b3d3bee837f8b56592"><div class="fe-block fe-block-yui_3_17_2_1_1705783674399_9510"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1705783674399_9510"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;">Disclaimer</h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-cff5c6a1a218bbf11bb2"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-cff5c6a1a218bbf11bb2"><div class="sqs-block-content"><hr /></div></div></div><div class="fe-block fe-block-0cf00e06f90dd375b820"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-0cf00e06f90dd375b820"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6568c8b3d3bee837f8b56596"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6568c8b3d3bee837f8b56595 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(6,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6568c8b3d3bee837f8b56595 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6568c8b3d3bee837f8b56595 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(10,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-52bde0632020c8357a7d {
+    grid-area: 1/2/2/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-52bde0632020c8357a7d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-52bde0632020c8357a7d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-52bde0632020c8357a7d {
+      grid-area: 1/7/2/10;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-52bde0632020c8357a7d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-52bde0632020c8357a7d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-ae80f00c1cfdb96c3831 {
+    grid-area: 2/2/7/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-ae80f00c1cfdb96c3831 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ae80f00c1cfdb96c3831 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ae80f00c1cfdb96c3831 {
+      grid-area: 2/9/11/20;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-ae80f00c1cfdb96c3831 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ae80f00c1cfdb96c3831 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6568c8b3d3bee837f8b56595"><div class="fe-block fe-block-52bde0632020c8357a7d"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-52bde0632020c8357a7d"><div class="sqs-block-content"><hr /></div></div></div><div class="fe-block fe-block-ae80f00c1cfdb96c3831"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-ae80f00c1cfdb96c3831"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;"> This website is not medical advice and does not replace the advice and patient education given by medical professionals. If you are having a medical emergency, call 911 or go to the emergency department.</h4><h4 style="white-space:pre-wrap;">This website is not sponsored or endorsed by any entity mentioned, it is just a collection of resources and information.</h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6568c8b3d3bee837f8b56599"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6568c8b3d3bee837f8b56598 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(28,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6568c8b3d3bee837f8b56598 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6568c8b3d3bee837f8b56598 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(28,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-234709873c647ad91182 {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-234709873c647ad91182 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-234709873c647ad91182 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-234709873c647ad91182 {
+      grid-area: 3/7/8/25;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-234709873c647ad91182 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-234709873c647ad91182 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_7192 {
+    grid-area: 7/2/13/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_7192 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701371660250_7192 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701371660250_7192 {
+      grid-area: 7/10/14/16;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701371660250_7192 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701371660250_7192 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701380156757_16918 {
+    grid-area: 13/2/29/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1701380156757_16918 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1701380156757_16918 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1701380156757_16918 {
+      grid-area: 13/10/29/18;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1701380156757_16918 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1701380156757_16918 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6568c8b3d3bee837f8b56598"><div class="fe-block fe-block-234709873c647ad91182"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-234709873c647ad91182"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;"><a href="mailto:email@example.com" target="_blank">Get in Touch.</a></h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701371660250_7192"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701371660250_7192"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Is something missing or you think should be mentioned? Comments? Questions? Let me know!</h4><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1701380156757_16918"><div class="sqs-block form-block sqs-block-form" data-blend-mode="NORMAL" data-block-type="9" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1701380156757_16918"><div class="sqs-block-content">
+
+  <script type="application/json" id="form-context-6569049663663c7d4b8c749b" class="sqs-form-block-context">{"secureUrl":"https://lgbtqibd.squarespace.com","formSubmitButtonText":"Submit","formSubmissionMessage":{"html":"<p class=\"\" style=\"white-space:pre-wrap;\">Thank you for reaching out I will get back to you as soon as possible!</p>"},"submissionVerticalAlignment":"","buttonAlignment":"","submissionMessageTextStyle":"","formName":"Home Form 2","collectionId":"6568c8b3d3bee837f8b56587","submissionAnimation":"","captchaTheme":1,"formId":"6569049663663c7d4b8c749b","useLightbox":false,"firstFieldHighlightType":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"US","labelLocale":"en-US","fields":[{"type":"SEPARATOR","label":"(","identifier":"LeftParen","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"1","identifier":"1","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":")","identifier":"RightParen","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":"-","identifier":"Dash","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":14,"required":false,"metadata":{}}]},"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkey","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"US","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"City","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level2"}},{"type":"SEPARATOR","label":",","identifier":"Comma","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"State","identifier":"State","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"ZIP Code","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]}},"showTitle":false,"captchaEnabled":true,"buttonVariant":"","objectName":"yui_3_17_2_1_1701380156757_16918","disclaimerMessage":null,"formFields":[{"type":"name","id":"name-yui_3_17_2_1_1701380156988_8202","locked":false,"title":"Name (optional)","description":"","required":false,"name":true},{"type":"email","id":"email-yui_3_17_2_1_1701380156988_8203","locked":false,"title":"Email","description":"","placeholder":"","required":true,"email":true,"mailingList":false},{"type":"text","id":"text-yui_3_17_2_1_1701380156988_8204","locked":false,"title":"Subject","description":"","placeholder":"","required":true,"text":true},{"type":"textarea","id":"textarea-yui_3_17_2_1_1701380156988_8205","locked":false,"title":"Message","description":"","placeholder":"","required":true,"textarea":true,"maxLength":""}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidUrl":"Must be a valid URL.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","stringTooLong":"Value should have a length no longer than {0}.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","containsInvalidKey":"{0} contains an invalid key.","stringTooShort":"Value should have a length of at least {0}.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalid":"{0} is not valid.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"address":{"country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City","stateProvince":"State/Province"},"lightbox":{"openForm":"Open Form"},"date":{"day":"Day","month":"Month","yyyy":"YYYY","year":"Year","dd":"DD","mm":"MM"},"likert":{"agree":"Agree","disagree":"Disagree","stronglyDisagree":"Strongly Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","amPm":"AM/PM","pm":"PM","minute":"Minute","hour":"Hour"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","notFound":"Form not found.","phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"required":"(required)","submitError":"Unable to submit form. Please try again later.","invalidData":"Invalid form data."}}</script>
+  <div id="form-submission-html-6569049663663c7d4b8c749b" class="sqs-form-block-submission-html" data-submission-html=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper"  hidden>
+    <form
+       data-form-id="6569049663663c7d4b8c749b"
+       data-success-redirect=""
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://lgbtqibd.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '6569049663663c7d4b8c749b',
+      collectionId: '6568c8b3d3bee837f8b56587',
+      objectName: 'yui_3_17_2_1_1701380156757_16918'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1701380156988_8202" class="form-item fields name">
+                
+            <legend class="title">
+              Name (optional)
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1701380156988_8203" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1701380156988_8203-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1701380156988_8203-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1701380156988_8204" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1701380156988_8204-field">
+              Subject
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1701380156988_8204-field"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1701380156988_8205" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1701380156988_8205-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1701380156988_8205-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+      <div class="captcha-container
+        align-left
+        
+        
+        "
+        data-theme="light"
+      ></div>
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Submit"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p class="" style="white-space:pre-wrap;">Thank you for reaching out I will get back to you as soon as possible!</p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
